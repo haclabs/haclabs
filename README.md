@@ -20,7 +20,8 @@ A **patient record simulator** designed to make managing and visualizing patient
 
 ## 🔧 Skills & Interests
 
-- Networking 
+- Networking
+- Cybersecurity
 - Infrastructure automation
 - Backend development (Go, Node.js)
 - Frontend (React, Tailwind, learning fast!)
