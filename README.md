@@ -1,8 +1,6 @@
 <p align="center">
   <img src="logo.svg" width="320" alt="haclabs logo"/><br>
 </p>
-
-<h1 align="center">haclabs</h1>
 <p align="center">
   Networking Engineer &bull; Wannabe Full Stack Developer
 </p>
