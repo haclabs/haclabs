@@ -1,16 +1,46 @@
-### Hello World  
+# 👋 Hi, I'm Colin | haclabs
 
-<!--
-**haclabs/haclabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **networking engineer** and a *wannabe full stack developer* based in Canada.  
+Currently building tools and exploring new tech—one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Pentesting
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 What I'm Working On
+
+### [hacCare](https://github.com/haclabs/haccare)  
+A **patient record simulator** designed to make managing and visualizing patient data easier for clinics, hospitals, and training environments.
+
+- Modern, responsive frontend
+- Secure user authentication
+- Vitals tracking & patient history
+- Barcode-based patient management
+- Built with Go, React, and modern web tech
+
+---
+
+## 🔧 Skills & Interests
+
+- Networking 
+- Infrastructure automation
+- Backend development (Go, Node.js)
+- Frontend (React, Tailwind, learning fast!)
+- IT consulting & MSP work
+
+---
+
+## 🛠️ My Goals
+
+- Become a true full stack developer
+- Ship useful, reliable software
+- Contribute to open source
+- Always be learning
+
+---
+
+## 📫 Connect
+
+- [GitHub](https://github.com/haclabs)
+
+---
+
+*“Automate everything, keep learning, help others.”*
