@@ -8,7 +8,7 @@ Currently building tools and exploring new tech—one project at a time.
 ## 🚧 What I'm Working On
 
 ### [hacCare](https://github.com/haclabs/haccare)  
-A **patient record simulator** designed to make managing and visualizing patient data easier for clinics, hospitals, and training environments.
+A **patient record simulator** designed to make managing and visualizing patient data easier for training environments.
 
 - Modern, responsive frontend
 - Secure user authentication
