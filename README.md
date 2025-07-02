@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Colin | haclabs
+haclabs
 
 I'm a **networking engineer** and a *wannabe full stack developer* based in Canada.  
 Currently building tools and exploring new tech—one project at a time.
