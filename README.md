@@ -2,7 +2,7 @@
   <img src="logo.svg" width="320" alt="haclabs logo"/><br>
 </p>
 <p align="left">
-  Networking Engineer &bull; Wannabe Full Stack Developer
+  Networking Engineer &bull; Full Stack Developer
 </p>
 Based in Canada.  
 Currently building tools and exploring new tech—one project at a time.
@@ -35,7 +35,7 @@ A **patient record simulator** designed to make managing and visualizing patient
 
 ## 🛠️ My Goals
 
-- Become a true full stack developer
+- Become an all round full stack developer
 - Ship useful, reliable software
 - Contribute to open source
 - Always be learning
